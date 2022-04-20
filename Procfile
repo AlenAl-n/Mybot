@@ -1,1 +1,1 @@
-worker: python3 alen.py
+web: python3 alen.py
